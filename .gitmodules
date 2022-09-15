@@ -4,3 +4,6 @@
 [submodule "themes/beautifulhugo"]
 	path = themes/beautifulhugo
 	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "jbcgenomics.github.io"]
+	path = jbcgenomics.github.io
+	url = https://github.com/jbcgenomics/jbcgenomics.github.io.git
