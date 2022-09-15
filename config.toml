@@ -1,4 +1,4 @@
 baseURL = 'https://jbcmultiomics.github.io/'
 languageCode = 'en-us'
-title = 'JBC omics'
+title = 'JBC multi-omics'
 theme = "beautifulhugo"
